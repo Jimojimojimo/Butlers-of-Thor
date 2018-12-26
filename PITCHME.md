@@ -33,7 +33,10 @@
 ###### * 인스타 : <http://bitly.kr/jD0FQ>
 ---
 # 성민규
-별명 : 성망고,  성격 : x선비
+* 별명: 성망고
+* 성격: x선비 - 이런들 어떠하리 저런들 어떠하리
+* 연말계획: 자바 사전학습!
+* 12월31일 계획: 방구석 워리어
 ![_ 20 -130526 hdtv 720p h264-ips avi_002256371](https://user-images.githubusercontent.com/37471802/50435474-cb8d0480-0924-11e9-9e59-b78e7a394214.jpg)
 ---
 # 이석원
@@ -45,6 +48,9 @@
 <center><br><img width="100" src="https://user-images.githubusercontent.com/18581510/50433165-9c24ca80-0919-11e9-9025-790db0b795f3.jpg" alt="Seokwon" ></center>
 ---
 # 장지모
+* 별명 : 자모, 마조리카,...
+* 성격 : 소심하지만 밝음.
+* 연말계획 : 2018년 되돌아보며 반성하기.
 ![마조리카](https://s3.namuwikiusercontent.com/s/8a94f59b2d07477397136a88c17f3413735762b7e523d5b1b14fbbff687cb4b78b3eafcef486cf55799536615114368d93620dd218023e5ad465e2d56b2915af51cce951586f90665dd00b2a850d64c8e1c8508ddc779cb026aa3c77d83a2894)
 ---
 # 감사합니다.
