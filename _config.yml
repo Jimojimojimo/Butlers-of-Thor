@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Butlers-of-Thor"
+title                    : "ButlersofThor"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "안녕하세요:)"
 url                      : # "https://jimojimojimo.gitgub.io"
-baseurl                  : # "/Butlers_of_Thor"
+baseurl                  : # "/ButlersofThor"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
